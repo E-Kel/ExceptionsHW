@@ -1,4 +1,5 @@
-import exceptions.CouldNotGetAnyResponceException;
+package typesOfUsers;
+
 import exceptions.ForbiddenException;
 
 public class Admin extends User {

@@ -1,3 +1,5 @@
+package typesOfUsers;
+
 import exceptions.AccessDeniedPleaseLoginException;
 import exceptions.CouldNotGetAnyResponceException;
 

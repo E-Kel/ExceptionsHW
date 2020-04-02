@@ -1,3 +1,7 @@
+import typesOfUsers.Admin;
+import typesOfUsers.User;
+import typesOfUsers.Viewer;
+
 public class Runner {
 
     public static void main(String[] args) {

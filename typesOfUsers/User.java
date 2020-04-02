@@ -1,3 +1,5 @@
+package typesOfUsers;
+
 import exceptions.ForbiddenException;
 import exceptions.InvalidCredentialsException;
 
